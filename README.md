@@ -2,11 +2,11 @@
 
 ## Overview
 
-This repository contains a custom object detection model implemented in Python using OpenCV, NumPy, and TensorFlow. The model has been tested with three different architectures: EfficientDet D4, RCNN Inception ResNet V2, and SSD MobileNet V2.
+This repository contains a targeted object detection model implemented in Python using OpenCV, NumPy, and TensorFlow. The model has been tested with three different architectures: EfficientDet D4, RCNN Inception ResNet V2, and SSD MobileNet V2.
 
 ## Objective
 
-The primary objective of this project is to provide a versatile and easily deployable custom object detection model, capable of accurately identifying objects in images using state-of-the-art architectures. The model is designed to offer flexibility by supporting distinct architectures like: EfficientDet D4, RCNN Inception ResNet V2, and SSD MobileNet V2. Users can seamlessly integrate this object detection solution into their projects or use it as a standalone tool.
+The primary objective of this project is to provide a versatile and easily deployable targeted object detection model, capable of accurately identifying objects in images using state-of-the-art architectures. The model is designed to offer flexibility by supporting distinct architectures like: EfficientDet D4, RCNN Inception ResNet V2, and SSD MobileNet V2. Users can seamlessly integrate this object detection solution into their projects or use it as a standalone tool.
 
 ## Features
 
