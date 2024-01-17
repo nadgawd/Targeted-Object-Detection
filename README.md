@@ -36,4 +36,16 @@ Before running the code, ensure you have the following dependencies installed:
 <li>OpenCV</li>
 <li>Tensorflow</li>
 
+## Result
+<li>SSD MobileNet V2</li>
+
+![ssd_mobilenet_v2_320x320_coco17_tpu-8](https://github.com/nadgawd/Custom-Object-Detection/assets/130206961/cc95bad8-67cb-46cb-bfc0-73915c445a7e)
+
+<li>EfficientDet D4</li>
+
+![efficientdet_d4_coco17_tpu-32](https://github.com/nadgawd/Custom-Object-Detection/assets/130206961/154e607c-1b9c-4b0d-99cc-047974bcd6e1)
+
+<li>RCNN Inception ResNet V2</li>
+
+![faster_rcnn_inception_resnet_v2_1024x1024_coco17_tpu-8](https://github.com/nadgawd/Custom-Object-Detection/assets/130206961/368c1440-277f-429a-b82c-ac7af9edfbd4)
 
